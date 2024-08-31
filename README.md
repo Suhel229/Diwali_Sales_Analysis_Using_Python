@@ -8,4 +8,4 @@
 
 📊 Sales Insights: Analyzed top-selling products and categories, contributing to more effective inventory planning and demand forecasting.
 
-This project has been a fantastic learning experience, enhancing my data analysis skills and providing actionable insights for business growth. A special thanks to Rishabh Mishra for his invaluable guidance and support throughout the process!
+This project has been a fantastic learning experience, enhancing my data analysis skills and providing actionable insights for business growth.
